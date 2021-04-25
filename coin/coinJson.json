@@ -7,5 +7,7 @@
   "crayfishgold-xw", "dafitetokens-daf", "gcswaptokens-gcs", "usdxusdxusdx-usdc", "usdxusdxusdx-usdb", "grootwargold-gwt",
   "grootwarfgem-ft", "pink.bank-tiip", "asset.dtoken-eth", "ihooeostoken-hoo", "joker.eos-joker", "dfssecretary-dfc",
   "dfxtokenmain-dfb", "dfxtokenmain-dfg", "djftokenmain-djf", "asset.dtoken-btc", "u.b.q-ubq", "galaxy.wei-galaxy",
-  "udxsynthetic-xeos", "udxsynthetic-xusdt", "udxsynthetic-xdoge", "udxsynthetic-xeth", "udxsynthetic-xbtc"]
+  "udxsynthetic-xeos", "udxsynthetic-xusdt", "udxsynthetic-xdoge", "udxsynthetic-xeth", "udxsynthetic-xbtc", "udxsynthetic-xokb",
+  "udxsynthetic-xht", "udxsynthetic-xbnb", "udxsynthetic-xdot", "udxsynthetic-xtrx", "udxsynthetic-xuni"
+  ]
 }
