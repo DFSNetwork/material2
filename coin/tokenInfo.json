@@ -124,5 +124,12 @@
     "websize": "https://www.tokenpocket.pro/",
     "content": "TPT是TokenPocket生态中代表TP用户以及开发者权益的应用型通证，也是连接钱包、用户以及项目开发者的重要纽带。",
     "contentEn": "TPT is an application token that represents the rights and interests of TP users and developers in the TokenPocket ecosystem. It is also an important link connecting wallets, users and project developers."
+  },
+  "eos.v2.wei-papaya": {
+    "project": "木瓜",
+    "projectEn": "PAPAYA",
+    "websize": "http://v2.papaya.mobi",
+    "content": "PAPAYA（木瓜）基于EOS生态链的去中心化通货紧缩型货币，流动性矿池被锁定，每笔转账交易都将收取10%交易费，1%自动销毁，2%进入木瓜基金（fund.papaya），3%进入投票分红（bonus.papaya），4%进入流动性矿池（pool.papaya），完全由社区自治。这是一次伟大的社会实践，也许会失败，但一旦成功那将是惊人的！",
+    "contentEn": "PAPAYA (papaya) is a decentralized deflationary currency based on the EOS ecological chain. The liquidity mining pool is locked. Each transfer transaction will be charged a 10% transaction fee, 1% will be automatically destroyed, and 2% will enter the papaya fund (fund.papaya) ), 3% enter the voting dividend (bonus.papaya), 4% enter the liquid mining pool (pool.papaya), fully autonomous by the community. This is a great social practice. It may fail, but once it succeeds it will be amazing!"
   }
 }
