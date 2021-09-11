@@ -129,7 +129,7 @@
     "project": "木瓜",
     "projectEn": "PAPAYA",
     "websize": "http://v2.papaya.mobi",
-    "content": "PAPAYA（木瓜）基于EOS生态链的去中心化通货紧缩型货币，流动性矿池被锁定，每笔转账交易都将收取10%交易费，1%自动销毁，2%进入木瓜基金（fund.papaya），3%进入投票分红（bonus.papaya），4%进入流动性矿池（pool.papaya），完全由社区自治。这是一次伟大的社会实践，也许会失败，但一旦成功那将是惊人的！",
-    "contentEn": "PAPAYA (papaya) is a decentralized deflationary currency based on the EOS ecological chain. The liquidity mining pool is locked. Each transfer transaction will be charged a 10% transaction fee, 1% will be automatically destroyed, and 2% will enter the papaya fund (fund.papaya) ), 3% enter the voting dividend (bonus.papaya), 4% enter the liquid mining pool (pool.papaya), fully autonomous by the community. This is a great social practice. It may fail, but once it succeeds it will be amazing!"
+    "content": "PAPAYA（木瓜）基于EOS生态链的去中心化通货紧缩型货币。每笔转账交易都将收取10%交易费，1%自动销毁，2%进入木瓜基金（fund.v2.wei），3%进入投票分红（bonus.v2.wei），4%进入流动性矿池（pool.v2.wei），完全由社区自治。PAPAYA近期推出NFT，开启木瓜的元宇宙。NFT与EOS账号绑定可以打折手续费，最高全免。这是一次伟大的社会实践，也许会失败，但一旦成功那将是惊人的！",
+    "contentEn": "PAPAYA (papaya) is a decentralized deflationary currency based on the EOS ecological chain. Each transfer transaction will be charged 10% transaction fee, 1% will be automatically destroyed, 2% will go to the papaya fund (fund.v2.wei), 3% will go to the voting dividend (bonus.v2.wei), and 4% will go to the liquid mining pool (Pool.v2.wei), fully autonomous by the community. PAPAYA recently launched NFT, opening the meta-universe of papaya. NFT and EOS account binding can be discounted and the handling fee is up to no charge. This is a great social practice. It may fail, but once it succeeds it will be amazing!"
   }
 }
