@@ -1,4 +1,5 @@
 {
-  "version": "1.0.1",
-  "update_url": "https://resource2.dfs.land/json/update_manifest.json"
+  "version": "1.0.0",
+  "update_url": "https://resource2.dfs.land/json/update_manifest.json",
+  "force": false
 }
