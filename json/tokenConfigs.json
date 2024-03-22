@@ -1,0 +1,219 @@
+{
+  "rechargeConfig": {
+    "USDT": [
+      {
+        "open": true,
+        "name": "Tron(TRC20)",
+        "blocks": 1,
+        "min": 1,
+        "time": "≈ 10 Min",
+        "address": "-",
+        "contract": "",
+        "useMemo": false,
+        "needGetDepositAddr": true,
+        "chain": "TRON"
+      },
+      {
+        "open": true,
+        "name": "EOS",
+        "blocks": 1,
+        "min": 1,
+        "time": "≈ 10 Min",
+        "address": "eosbridgedfs",
+        "contract": "tethertether",
+        "useMemo": true,
+        "needGetDepositAddr": false,
+        "chain": "EOS"
+      }
+    ],
+    "DFS": [
+      {
+        "open": true,
+        "name": "EOS",
+        "blocks": 1,
+        "min": 1,
+        "time": "≈ 10 Min",
+        "address": "eosbridgedfs",
+        "contract": "minedfstoken",
+        "useMemo": true,
+        "needGetDepositAddr": false,
+        "chain": "EOS"
+      },
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "blocks": 3,
+        "min": 1,
+        "time": "≈ 6 Hour",
+        "address": "-",
+        "contract": "",
+        "useMemo": false,
+        "needGetDepositAddr": true,
+        "chain": "BTC"
+      }
+    ],
+    "BTC": [
+      {
+        "open": true,
+        "name": "Bitcoin",
+        "blocks": 3,
+        "min": 0.01,
+        "time": "≈ 6 Hour",
+        "address": "-",
+        "contract": "",
+        "useMemo": false,
+        "needGetDepositAddr": true,
+        "chain": "BTC"
+      }
+    ],
+    "ORDI": [
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "blocks": 3,
+        "min": 1,
+        "time": "≈ 6 Hour",
+        "address": "-",
+        "contract": "",
+        "useMemo": false,
+        "needGetDepositAddr": true,
+        "chain": "BTC"
+      }
+    ],
+    "SATS": [
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "blocks": 3,
+        "min": 1,
+        "time": "≈ 6 Hour",
+        "address": "-",
+        "contract": "",
+        "useMemo": false,
+        "needGetDepositAddr": true,
+        "chain": "BTC"
+      }
+    ],
+    "RATS": [
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "blocks": 3,
+        "min": 1,
+        "time": "≈ 6 Hour",
+        "address": "-",
+        "contract": "",
+        "useMemo": false,
+        "needGetDepositAddr": true,
+        "chain": "BTC"
+      }
+    ],
+    "MMSS": [
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "blocks": 3,
+        "min": 1,
+        "time": "≈ 6 Hour",
+        "address": "-",
+        "contract": "",
+        "useMemo": false,
+        "needGetDepositAddr": true,
+        "chain": "BTC"
+      }
+    ]
+  },
+  "withdrawConfig": {
+    "USDT": [
+      {
+        "open": true,
+        "name": "Tron(TRC20)",
+        "blocks": 1,
+        "min": "10.00000000",
+        "fee": 1,
+        "feeToken": "USDT",
+        "time": "≈ 10 Min",
+        "contract": "",
+        "useMemo": false,
+        "chain": "TRON"
+      },
+      {
+        "open": true,
+        "name": "EOS",
+        "min": 1,
+        "blocks": 1,
+        "fee": 1,
+        "feeToken": "USDT",
+        "useMemo": true,
+        "time": "≈ 10 Min",
+        "contract": "tethertether",
+        "chain": "EOS"
+      }
+    ],
+    "BTC": [
+      {
+        "open": true,
+        "name": "Bitcoin",
+        "min": 0.005,
+        "blocks": 5,
+        "fee": 5,
+        "useMemo": false,
+        "time": "≈ 12 Hour",
+        "contract": "",
+        "chain": "BTC"
+      }
+    ],
+    "ORDI": [
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "min": 1,
+        "blocks": 5,
+        "fee": 10,
+        "useMemo": false,
+        "time": "≈ 12 Hour",
+        "contract": "",
+        "chain": "BTC"
+      }
+    ],
+    "SATS": [
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "min": 1,
+        "blocks": 5,
+        "fee": 10,
+        "useMemo": false,
+        "time": "≈ 2 Hour",
+        "contract": "",
+        "chain": "BTC"
+      }
+    ],
+    "RATS": [
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "min": 1,
+        "blocks": 5,
+        "fee": 10,
+        "useMemo": false,
+        "time": "≈ 12 Hour",
+        "contract": "",
+        "chain": "BTC"
+      }
+    ],
+    "MMSS": [
+      {
+        "open": true,
+        "name": "ORDI-BRC20",
+        "min": 1,
+        "blocks": 5,
+        "fee": 10,
+        "useMemo": false,
+        "time": "≈ 12 Hour",
+        "contract": "",
+        "chain": "BTC"
+      }
+    ]
+  }
+}
