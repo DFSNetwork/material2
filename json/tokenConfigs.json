@@ -12,33 +12,9 @@
         "useMemo": false,
         "needGetDepositAddr": true,
         "chain": "TRON"
-      },
-      {
-        "open": true,
-        "name": "EOS",
-        "blocks": 1,
-        "min": 1,
-        "time": "≈ 10 Min",
-        "address": "eosbridgedfs",
-        "contract": "tethertether",
-        "useMemo": true,
-        "needGetDepositAddr": false,
-        "chain": "EOS"
       }
     ],
     "DFS": [
-      {
-        "open": true,
-        "name": "EOS",
-        "blocks": 1,
-        "min": 1,
-        "time": "≈ 10 Min",
-        "address": "eosbridgedfs",
-        "contract": "minedfstoken",
-        "useMemo": true,
-        "needGetDepositAddr": false,
-        "chain": "EOS"
-      },
       {
         "open": true,
         "name": "ORDI-BRC20",
@@ -136,18 +112,6 @@
         "contract": "",
         "useMemo": false,
         "chain": "TRON"
-      },
-      {
-        "open": true,
-        "name": "EOS",
-        "min": 1,
-        "blocks": 1,
-        "fee": 1,
-        "feeToken": "USDT",
-        "useMemo": true,
-        "time": "≈ 10 Min",
-        "contract": "tethertether",
-        "chain": "EOS"
       }
     ],
     "BTC": [
